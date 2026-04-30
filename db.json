@@ -1,0 +1,54 @@
+{
+  "stones": [
+    {
+      "id": 0,
+      "name": "Ametista",
+      "weight": 120,
+      "color": "Viola",
+      "countries": ["Sudafrica", "Brasile"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GuerreroAm%C3%A9thyste.jpg/960px-GuerreroAm%C3%A9thyste.jpg",
+      "description": "Variet\u00e0 di quarzo dal caratteristico colore violetto, usata da secoli come pietra preziosa e per scopi spirituali.",
+      "collectionDate": "2020-03-23T00:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "name": "Quarzo Rosa",
+      "weight": 85,
+      "color": "Rosa pallido",
+      "countries": ["Madagascar", "Brasile"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rose_quartz_Spain.jpg/960px-Rose_quartz_Spain.jpg",
+      "description": "Cristallo di quarzo dal delicato colore rosa, simbolo di amore e armonia nella tradizione cristalloterapica.",
+      "collectionDate": "2022-12-09T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Ossidiana",
+      "weight": 200,
+      "color": "Nero lucido",
+      "countries": ["Messico", "Islanda"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ObsidianOregon.jpg",
+      "description": "Vetro vulcanico naturale formatosi dal rapido raffreddamento della lava, con superficie liscia e lucente.",
+      "collectionDate": "2026-02-22T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Labradorite",
+      "weight": 150,
+      "color": "Grigio-blu iridescente",
+      "countries": ["Canada", "Finlandia"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Labradorite_detail.jpg",
+      "description": "Minerale feldspatico noto per il fenomeno ottico della labradorescenza, che produce riflessi cangianti blu e verdi.",
+      "collectionDate": "2024-01-29T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Pirite",
+      "weight": 310,
+      "color": "Oro metallico",
+      "countries": ["Spagna", "Per\u00f9"],
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg/500px-Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg",
+      "description": "Solfuro di ferro dalla lucentezza metallica dorata, chiamato anche 'oro degli stolti' per la sua somiglianza con l'oro.",
+      "collectionDate": "1999-10-09T00:00:00.000Z"
+    }
+  ]
+}
