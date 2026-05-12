@@ -3,52 +3,178 @@
     {
       "id": 0,
       "name": "Ametista",
-      "weight": 120,
+      "weight": 130,
       "color": "Viola",
-      "countries": ["Sudafrica", "Brasile"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GuerreroAm%C3%A9thyste.jpg/960px-GuerreroAm%C3%A9thyste.jpg",
-      "description": "Variet\u00e0 di quarzo dal caratteristico colore violetto, usata da secoli come pietra preziosa e per scopi spirituali.",
-      "collectionDate": "2020-03-23T00:00:00.000Z"
+      "countries": ["Brasile", "Uruguay", "Sudafrica"],
+      "imageUrl": "https://loremflickr.com/600/400/amethyst,mineral,crystal,purple?lock=0",
+      "description": "Varietà di quarzo dal caratteristico colore violet…",
+      "collectionDate": "2019-04-22T00:00:00.000Z",
+      "colorHex": "#7B4FA6"
     },
     {
       "id": 1,
       "name": "Quarzo Rosa",
       "weight": 85,
       "color": "Rosa pallido",
-      "countries": ["Madagascar", "Brasile"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rose_quartz_Spain.jpg/960px-Rose_quartz_Spain.jpg",
-      "description": "Cristallo di quarzo dal delicato colore rosa, simbolo di amore e armonia nella tradizione cristalloterapica.",
-      "collectionDate": "2022-12-09T00:00:00.000Z"
+      "countries": ["Brasile", "Madagascar", "India"],
+      "imageUrl": "https://loremflickr.com/600/400/rose-quartz,mineral,crystal,pink?lock=1",
+      "description": "Cristallo di quarzo dal delicato colore rosa, simb…",
+      "collectionDate": "2024-04-06T00:00:00.000Z",
+      "colorHex": "#F4A7B9"
     },
     {
       "id": 2,
       "name": "Ossidiana",
-      "weight": 200,
+      "weight": 300,
       "color": "Nero lucido",
-      "countries": ["Messico", "Islanda"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ObsidianOregon.jpg",
-      "description": "Vetro vulcanico naturale formatosi dal rapido raffreddamento della lava, con superficie liscia e lucente.",
-      "collectionDate": "2026-02-22T00:00:00.000Z"
+      "countries": ["Messico", "Islanda", "USA"],
+      "imageUrl": "https://loremflickr.com/600/400/obsidian,volcanic,rock,black?lock=2",
+      "description": "Vetro vulcanico naturale formatosi dal rapido raff…",
+      "collectionDate": "2019-04-05T00:00:00.000Z",
+      "colorHex": "#1A1A1A"
     },
     {
       "id": 3,
       "name": "Labradorite",
-      "weight": 150,
+      "weight": 140,
       "color": "Grigio-blu iridescente",
-      "countries": ["Canada", "Finlandia"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Labradorite_detail.jpg",
-      "description": "Minerale feldspatico noto per il fenomeno ottico della labradorescenza, che produce riflessi cangianti blu e verdi.",
-      "collectionDate": "2024-01-29T00:00:00.000Z"
+      "countries": ["Canada", "Finlandia", "Madagascar"],
+      "imageUrl": "https://loremflickr.com/600/400/labradorite,mineral,crystal,iridescent?lock=3",
+      "description": "Minerale feldspatico noto per il fenomeno ottico d…",
+      "collectionDate": "2017-06-22T00:00:00.000Z",
+      "colorHex": "#5B7FA6"
     },
     {
       "id": 4,
       "name": "Pirite",
-      "weight": 310,
+      "weight": 290,
       "color": "Oro metallico",
-      "countries": ["Spagna", "Per\u00f9"],
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg/500px-Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg",
-      "description": "Solfuro di ferro dalla lucentezza metallica dorata, chiamato anche 'oro degli stolti' per la sua somiglianza con l'oro.",
-      "collectionDate": "1999-10-09T00:00:00.000Z"
+      "countries": ["Spagna", "Perù", "Italia"],
+      "imageUrl": "https://loremflickr.com/600/400/pyrite,mineral,gold,metallic?lock=4",
+      "description": "Solfuro di ferro dalla lucentezza metallica dorata…",
+      "collectionDate": "2015-06-21T00:00:00.000Z",
+      "colorHex": "#CFB53B"
+    },
+    {
+      "id": 5,
+      "name": "Malachite",
+      "weight": 145,
+      "color": "Verde smeraldo",
+      "countries": ["Congo", "Russia", "Zambia"],
+      "imageUrl": "https://loremflickr.com/600/400/malachite,mineral,green,crystal?lock=5",
+      "description": "Carbonato di rame dal vivace colore verde, con car…",
+      "collectionDate": "2023-03-17T00:00:00.000Z",
+      "colorHex": "#2E8B57"
+    },
+    {
+      "id": 6,
+      "name": "Turchese",
+      "weight": 105,
+      "color": "Azzurro-verde",
+      "countries": ["Iran", "USA", "Cina"],
+      "imageUrl": "https://loremflickr.com/600/400/turquoise,mineral,blue,gemstone?lock=6",
+      "description": "Fosfato idrato di rame e alluminio, apprezzato fin…",
+      "collectionDate": "2022-10-04T00:00:00.000Z",
+      "colorHex": "#00CED1"
+    },
+    {
+      "id": 7,
+      "name": "Rodocrosite",
+      "weight": 180,
+      "color": "Rosa-rosso",
+      "countries": ["Argentina", "USA", "Perù"],
+      "imageUrl": "https://loremflickr.com/600/400/rhodochrosite,mineral,pink,crystal?lock=7",
+      "description": "Carbonato di manganese dal caratteristico colore r…",
+      "collectionDate": "2015-11-11T00:00:00.000Z",
+      "colorHex": "#C2395A"
+    },
+    {
+      "id": 8,
+      "name": "Lapislazzuli",
+      "weight": 200,
+      "color": "Blu intenso",
+      "countries": ["Afghanistan", "Cile", "Russia"],
+      "imageUrl": "https://loremflickr.com/600/400/lapis-lazuli,mineral,blue,gemstone?lock=8",
+      "description": "Roccia metamorfica di colore blu intenso con inclu…",
+      "collectionDate": "2023-10-02T00:00:00.000Z",
+      "colorHex": "#1B3A8C"
+    },
+    {
+      "id": 9,
+      "name": "Calcite Arancione",
+      "weight": 235,
+      "color": "Arancione",
+      "countries": ["Messico", "Belgio", "USA"],
+      "imageUrl": "https://loremflickr.com/600/400/calcite,mineral,orange,crystal?lock=9",
+      "description": "Carbonato di calcio di colore arancione vibrante,…",
+      "collectionDate": "2021-04-19T00:00:00.000Z",
+      "colorHex": "#E8820C"
+    },
+    {
+      "id": 10,
+      "name": "Selenite",
+      "weight": 160,
+      "color": "Bianco trasparente",
+      "countries": ["Marocco", "Messico", "USA"],
+      "imageUrl": "https://loremflickr.com/600/400/selenite,gypsum,mineral,white?lock=10",
+      "description": "Varietà di gesso cristallizzato dal carattere tras…",
+      "collectionDate": "2019-10-30T00:00:00.000Z",
+      "colorHex": "#F5F5F0"
+    },
+    {
+      "id": 11,
+      "name": "Granato Rosso",
+      "weight": 80,
+      "color": "Rosso rubino",
+      "countries": ["India", "Mozambico", "Madagascar"],
+      "imageUrl": "https://loremflickr.com/600/400/garnet,mineral,red,gemstone?lock=11",
+      "description": "Silicato di alluminio e ferro dal colore rosso pro…",
+      "collectionDate": "2020-03-29T00:00:00.000Z",
+      "colorHex": "#9B111E"
+    },
+    {
+      "id": 12,
+      "name": "Fluorite Viola",
+      "weight": 185,
+      "color": "Viola chiaro",
+      "countries": ["Cina", "UK", "USA"],
+      "imageUrl": "https://loremflickr.com/600/400/fluorite,mineral,purple,crystal?lock=12",
+      "description": "Fluoruro di calcio dall'ampia gamma di colori, not…",
+      "collectionDate": "2022-04-09T00:00:00.000Z",
+      "colorHex": "#B89BC8"
+    },
+    {
+      "id": 13,
+      "name": "Tanzanite",
+      "weight": 65,
+      "color": "Blu-violetto",
+      "countries": ["Tanzania"],
+      "imageUrl": "https://loremflickr.com/600/400/tanzanite,mineral,blue,gemstone?lock=13",
+      "description": "Varietà di zoisite di colore blu-violetto, scopert…",
+      "collectionDate": "2023-06-29T00:00:00.000Z",
+      "colorHex": "#4B0082"
+    },
+    {
+      "id": 14,
+      "name": "Opale",
+      "weight": 100,
+      "color": "Iridescente multicolore",
+      "countries": ["Australia", "Etiopia", "Brasile"],
+      "imageUrl": "https://loremflickr.com/600/400/opal,mineral,gemstone,iridescent?lock=14",
+      "description": "Mineraloide di silice idrata noto per la sua gioco…",
+      "collectionDate": "2017-08-22T00:00:00.000Z",
+      "colorHex": "#A8D8EA"
+    },
+    {
+      "id": 15,
+      "name": "Topazio Imperiale",
+      "weight": 130,
+      "color": "Arancio-dorato",
+      "countries": ["Brasile", "Russia", "Pakistan"],
+      "imageUrl": "https://loremflickr.com/600/400/topaz,mineral,orange,gemstone?lock=15",
+      "description": "Varietà pregiata di topazio di colore arancio-gial…",
+      "collectionDate": "2017-04-06T00:00:00.000Z",
+      "colorHex": "#E8A020"
     }
   ]
 }
